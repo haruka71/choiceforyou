@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/choicesforyou/static/css/main.a7bf5347.chunk.css",
+    "main.css": "/choicesforyou/static/css/main.ee2dbf9a.chunk.css",
     "main.js": "/choicesforyou/static/js/main.ac99b7c5.chunk.js",
     "main.js.map": "/choicesforyou/static/js/main.ac99b7c5.chunk.js.map",
     "runtime-main.js": "/choicesforyou/static/js/runtime-main.0e22ad44.js",
@@ -8,15 +8,15 @@
     "static/js/2.cf614f7f.chunk.js": "/choicesforyou/static/js/2.cf614f7f.chunk.js",
     "static/js/2.cf614f7f.chunk.js.map": "/choicesforyou/static/js/2.cf614f7f.chunk.js.map",
     "index.html": "/choicesforyou/index.html",
-    "precache-manifest.84f1ad585125083521d7a80f5e39cad8.js": "/choicesforyou/precache-manifest.84f1ad585125083521d7a80f5e39cad8.js",
+    "precache-manifest.e67821eb32afcfc425186bf15e7c9b6c.js": "/choicesforyou/precache-manifest.e67821eb32afcfc425186bf15e7c9b6c.js",
     "service-worker.js": "/choicesforyou/service-worker.js",
-    "static/css/main.a7bf5347.chunk.css.map": "/choicesforyou/static/css/main.a7bf5347.chunk.css.map",
+    "static/css/main.ee2dbf9a.chunk.css.map": "/choicesforyou/static/css/main.ee2dbf9a.chunk.css.map",
     "static/js/2.cf614f7f.chunk.js.LICENSE.txt": "/choicesforyou/static/js/2.cf614f7f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0e22ad44.js",
     "static/js/2.cf614f7f.chunk.js",
-    "static/css/main.a7bf5347.chunk.css",
+    "static/css/main.ee2dbf9a.chunk.css",
     "static/js/main.ac99b7c5.chunk.js"
   ]
 }
